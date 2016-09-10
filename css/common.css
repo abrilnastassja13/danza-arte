@@ -17,3 +17,11 @@ li {
 	display: inline-block;
 	padding-right: 15px;
 }
+
+.contactanos {
+	background-image: url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: contain;
+	height: 500px;
+}
