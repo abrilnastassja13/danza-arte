@@ -1,0 +1,61 @@
+/* Inserta tu codigo aqui */
+
+.danza1 {
+	background-image: url(../img/dance_1.jpg);
+	height: 500px;
+	margin-top: 8%;
+}
+
+.studio {
+	color: #C3C6C5;
+}
+
+.inscribete {
+	background-color: #040F1D;
+	border-color: #040F1D;
+	border-radius: 5px;
+	width: 150px;
+	height: 50px;
+}
+
+.textura2 {
+	background-image: url(../img/textura_2.jpg);
+	height: 500px;
+}
+
+.decoration1 {
+	height: 150px;
+	width: 200px;
+	position: absolute;
+	bottom: 5px;
+	left: 500px;
+}
+
+.julliart {
+	font-size: 25px;
+	padding: 10%;
+}
+
+.oferta {
+	background-color: #040F1D;
+	border-color: #040F1D;
+	border-radius: 5px;
+	width: 200px;
+	height: 50px;
+}
+
+.instructor {
+	width: 400px;
+	height: 400px;
+	position: relative;
+	display: inline-block;
+}
+
+.uno {
+	position: relative;
+	float: right;
+	margin-right: 1em;
+    margin-bottom: 1em;
+    display: inline-block;
+}
+

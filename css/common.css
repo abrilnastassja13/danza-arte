@@ -1,0 +1,19 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+nav {
+	height: 18%;
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	z-index: 2;
+	top: 0;
+}
+
+.titulo {
+	font-weight: bolder;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	padding-right: 15px;
+}
