@@ -18,6 +18,11 @@ li {
 	padding-right: 15px;
 }
 
+.studio {
+	padding: 20px;
+	font-size: 50px;
+}
+
 .contactanos {
 	background-image: url(../img/shoes_!.jpg);
 	background-repeat: no-repeat;
@@ -25,3 +30,32 @@ li {
 	background-size: contain;
 	height: 500px;
 }
+
+.contacto {
+	padding: 3% 10%;
+	margin-top: 10%;
+	font-weight: bolder;
+}
+
+input,textarea {
+	display: block;
+	margin:1% 10%; 
+	width: 500px;
+}
+
+.enviar {
+	height: 50px; 
+	width: 500px;
+	background-color:#192951;
+	border-color: #192951;
+	font-size: 20px;
+	margin:2% 10%;
+}
+
+.copyright {
+	background-color: #192951;
+	color: #F2F3F5;
+	height: 75px;
+	padding: 30px;
+}
+

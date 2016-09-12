@@ -40,7 +40,7 @@
 	background-color: #040F1D;
 	border-color: #040F1D;
 	border-radius: 5px;
-	width: 200px;
+	width: 300px;
 	height: 50px;
 }
 
@@ -94,6 +94,14 @@
 	margin-top: 40px;
 }
 
-.contactanos {
-	background-image: url(../img/shoes_!.jpg);
+.visit {
+	font-weight: bold;
+}
+
+.lorem {
+	margin-top: 60px;
+}
+
+.mapa {
+	margin-top: 60px;
 }
